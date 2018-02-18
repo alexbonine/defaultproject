@@ -1,6 +1,4 @@
 # Default Project
--
-
 
 Created for interview coding tests. Used to quickly generate a project with environments for general dev, plain HTML, React, and Express API. All environments can watch for changes and live update. Uses ESLint for styling warning.
 
