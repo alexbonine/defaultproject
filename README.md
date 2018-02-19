@@ -2,6 +2,14 @@
 
 Created for interview coding tests. Used to quickly generate a project with environments for general dev, plain HTML, React, and Express API. All environments can watch for changes and live update. Uses ESLint for styling warning.
 
+## Usage
+To use, you can run the generate script to create a copy in a new directory in the same parent directory.  
+- `git clone https://github.com/alexbonine/defaultproject.git`  
+- `cd defaultproject`  
+- `npm run generate {new directory name}`  
+
+Or: `git clone https://github.com/alexbonine/defaultproject.git && cd defaultproject && npm run generate {name}`
+
 ## Dev
 Provides a test framework to quickly add test cases and begin development.
 
